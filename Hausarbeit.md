@@ -10,7 +10,6 @@
 
 ## Die Entwicklung der Integrierten Schaltkreise
 
-
 ## Zusammenfassung
 
 ## Literatur
